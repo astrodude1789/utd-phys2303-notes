@@ -14,6 +14,6 @@ Please note that this implies no warranty in the notes
 and that they are provided as-is as a reference tool.
 This is a student project with the intent to be useful
 and is in no way affiliated with Dr. Khan or the UTD
-physics department. Don't contact her if there's some-
-thing wrong in here. Additionally, follow all the rules
-of academic honesty when using these notes.
+physics department. Don't contact her if there's 
+something wrong in here. Additionally, follow all the
+rules of academic honesty when using these notes.
